@@ -1,0 +1,4 @@
+[submodule "xmarts/xma_bluemeds_connector"]
+	path = xmarts/xma_bluemeds_connector
+	url = git@github.com:xmarts/xma_bluemeds_connector.git
+	branch = 16.0-dev
